@@ -1,0 +1,27 @@
+* { margin: 0; padding: 0;}
+body,form,input{ margin: 0px; padding: 0px; border:0; font-size: 14px; font-weight: normal; font-family:"Microsoft Yahei"; color:#000;}
+ul,ol,li { list-style: none; list-style-type:none; margin:0; padding:0px;}
+p,div,a,h1,h2,h3,h4,h5,h6,span,ul,li,img,form,input,br,dl,dt,dd{ padding:0; margin:0;}
+img {border-style:none; border:0; padding:0; margin:0;}
+a{color:#000; text-decoration:none;}
+a:hover{ text-decoration:none;}
+.clear{ clear:both; height:0; display:block;}
+h1,h2,h3,h4,h5,h6{ font-weight:normal;}
+em,i,samp,b{ font-style:normal;font-weight: normal; font-family:"Microsoft Yahei";}
+.fix{*zoom:1;}
+.fix:after{content:""; display:block; clear:both;}
+.content{width:10.8rem;margin: 0 auto;}
+.t_top{ height:1.35rem; line-height:1.35rem; position:relative; margin-bottom:4.2rem}
+.t_top span.pre{ display:block; position:absolute; top:0.4rem; left:0.36rem; width:0.33rem; height:0.6rem;}
+.t_top span.pre a{ display:block}
+.t_top span.pre img{ width:0.33rem; height:0.6rem;}
+.log {background:url(image/u2.jpg) no-repeat center; background-size:contain;height: 7rem;}
+.login_con{margin:0 1.22rem;}
+.login_con p input{ outline:none; font-size:0.54rem; height:1.2rem; line-height:1.2rem; color:#666;padding-left:1.2rem; margin-left:0.5rem;border:none }
+.login_con p{ margin-bottom:1.05rem; background:#fff;border-radius:0.6rem; border: 1px solid #aeaeae;width:100%}
+.txt1{ background:url(image/user.png) no-repeat left center; background-size:contain; }
+.txt2{ background:url(image/password.png) no-repeat left center; background-size:contain;}
+.login_con p:nth-child(2){ margin-bottom:0.5rem}
+.login_con p:nth-child(3){ background:none; border:none;text-align:right; margin-bottom:1.3rem}
+.login_con p span{ display:block; font-size:0.44rem; background:url(image/tp2_09.png) no-repeat 5.8rem center; background-size:contain;}
+.login{ background:#6699cc; height:1.2rem; line-height:1.2rem; outline:none; color:#fff; width:100%; font-size:0.65rem; border:none; border-radius:0.6rem; text-align:center; border:none}
